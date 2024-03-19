@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mariana-Perez-Rothstein
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning about structured programming with JS, Node Js, MySQl.
+- 👋 Hi, I’m @Mariana-Perez-Rothstein, i'm gaduated in Sociology at Universidad de Barcelona. So i've always been in love with data and social causes. 
+- 👀 I’m professionaly improving my knowledge, and i am very interested in data analysis.
+- 🌱 I’m currently learning about structured programming with JS, Node Js, and MySQl. 
 - 💞️ I’m looking to collaborate on news projects.
 
 <!---
